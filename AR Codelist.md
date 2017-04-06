@@ -261,15 +261,15 @@ D2000000 00000000
 Ongoing list of Pokemon NoSSL Codes:  
 https://github.com/mm201/pkmn-classic-framework/issues/11  
 
-- [Pokemon Black](#Pokemon Black)
-- [Pokemon Black 2](#Pokemon Black 2)
-- [Pokemon Diamond](#Pokemon Diamond)
-- [Pokemon HeartGold](#Pokemon HeartGold)
-- [Pokemon Pearl](#Pokemon Pearl)
-- [Pokemon Platinum](#Pokemon Platinum)
-- [Pokemon SoulSilver](#Pokemon SoulSilver)
-- [Pokemon White](#Pokemon White)
-- [Pokemon White 2](#Pokemon White 2)
+- [Pokemon Black](#Pokemon-Black)
+- [Pokemon Black 2](#Pokemon-Black-2)
+- [Pokemon Diamond](#Pokemon-Diamond)
+- [Pokemon HeartGold](#Pokemon-HeartGold)
+- [Pokemon Pearl](#Pokemon-Pearl)
+- [Pokemon Platinum](#Pokemon-Platinum)
+- [Pokemon SoulSilver](#Pokemon-SoulSilver)
+- [Pokemon White](#Pokemon-White)
+- [Pokemon White 2](#Pokemon-White-2)
 
 #### Pokemon Black  
 ```
