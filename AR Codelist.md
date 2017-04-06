@@ -1,6 +1,6 @@
 ## HTTPS bypass Action Replay DS(i) Codes  
 
-The following is a list of pre-generated Action Replay DS(i) codes for connecting to a new server.
+The following is a list of pre-generated Action Replay DS(i) codes for connecting to a new server.  
 
 
 | [0](#0) | [A](#a) | [B](#b)
@@ -11,20 +11,19 @@ The following is a list of pre-generated Action Replay DS(i) codes for connectin
  | [O](#o) | [P](#p) | [Q](#q)
  | [R](#r) | [S](#s) | [T](#t)
  | [U](#u) | [V](#v) | [W](#w)
- | [X](#x) | [Y](#y) | [Z](#z) |
+ | [X](#x) | [Y](#y) | [Z](#z) |  
 
 
 
-## 0
+## 0  
 
-## A
+## A  
 
-## B
+## B  
 
-## C
+## C  
 
-## D
-
+## D  
 
 #### Diddy Kong Racing DS  
 ```
@@ -46,12 +45,14 @@ D2E4F10D 0009000A
 D2000000 00000000
 ```
 
-## E
 
-## F
+## E  
 
-## G
 
+## F  
+
+
+## G  
 
 #### GRID  
 ```
@@ -74,12 +75,14 @@ D2DEAF2D 015E0012
 D2000000 00000000
 ```
 
-## H
 
-## I
+## H  
 
-## J
 
+## I  
+
+
+## J  
 
 #### Jump! Ultimate Stars  
 ```
@@ -101,15 +104,16 @@ D2EAFCCD 01200035
 D2000000 00000000
 ```
 
-## K
 
-## L
-
-## M
+## K  
 
 
+## L  
 
-#### Mario Kart DS 
+
+## M  
+
+#### Mario Kart DS  
 ```
 (EU)
 [AMCP] MARIOKARTDS
@@ -167,8 +171,7 @@ D2000000 00000000
 ```
 
 
-## N
-
+## N  
 
 #### Nanostray 2  
 ```
@@ -212,10 +215,10 @@ D2DE3A85 0009000A
 D2000000 00000000
 ```
 
-## O
 
-## P
+## O  
 
+## P  
 
 #### Phantasy Star Zero  
 ```
@@ -413,6 +416,7 @@ D2F19921 0070014B
 020CF9FC FAFCC183
 D2000000 00000000
 ```
+
 #### Pokemon HeartGold  
 ```
 (US)
@@ -733,10 +737,9 @@ D2000000 00000000
 ```
 
 
-## Q
+## Q  
 
-## R
-
+## R  
 
 #### Ragnarok DS  
 ```
@@ -759,8 +762,8 @@ D2ED6441 015E0012
 D2000000 00000000
 ```
 
-## S
 
+## S  
 
 #### Star Fox Command  
 ```
@@ -782,8 +785,8 @@ D2F54B05 03D9014B
 D2000000 00000000
 ```
 
-## T
 
+## T  
 
 #### Tetris DS  
 ```
@@ -805,14 +808,21 @@ D2E81E55 03BB0151
 D2000000 00000000
 ```
 
+
 ## U
+
 
 ## V
 
+
 ## W
+
 
 ## X
 
+
 ## Y
 
+
 ## Z
+
