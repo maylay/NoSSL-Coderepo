@@ -15,20 +15,9 @@ The following is a list of pre-generated Action Replay DS(i) codes for connectin
 ## D
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-#### Diddy Kong Racing DS (US)
+#### Diddy Kong Racing DS  
 ```
+(US)
 [AWDE] DKRACINGDS
 5207488C EE070F90
 E2000780 00000048
@@ -53,9 +42,9 @@ D2000000 00000000
 ## G
 
 
-
-#### GRID (US) Untested
+#### GRID  
 ```
+(US)
 [YG6E] GRID
 5200B468 EE070F90
 E2000698 0000004A
@@ -81,8 +70,9 @@ D2000000 00000000
 ## J
 
 
-#### Jump! Ultimate Stars (JP)
+#### Jump! Ultimate Stars  
 ```
+(JP)
 [AJUJ] JUS
 5205567C EE070F90
 E2000238 00000048
@@ -108,8 +98,9 @@ D2000000 00000000
 
 
 
-#### Mario Kart DS (EU)
+#### Mario Kart DS 
 ```
+(EU)
 [AMCP] MARIOKARTDS
 5200FD08 EE070F90
 E2000278 00000046
@@ -125,10 +116,8 @@ D2EBD5B1 0B8000F8
 0200FD08 E92D401E
 0200FD0C FAFFC159
 D2000000 00000000
-```
 
-#### Mario Kart DS (US)
-```
+(US)
 [AMCE] MARIOKARTDS
 5200FD08 EE070F90
 E20002F8 00000046
@@ -146,8 +135,9 @@ D2EBD571 0B8000F8
 D2000000 00000000
 ```
 
-#### Metroid Prime Hunters (US)
+#### Metroid Prime Hunters  
 ```
+(US)
 [AMHE] MP HUNTERS
 52088348 EE070F90
 E2004368 00000046
@@ -169,8 +159,9 @@ D2000000 00000000
 ## N
 
 
-#### Nanostray 2 (US) Untested
+#### Nanostray 2  
 ```
+(US)
 [ANXE] NANOSTRAY2
 5200AEE4 EE070F90
 E2000298 0000004A
@@ -189,8 +180,9 @@ D2E1BEED 015D0012
 D2000000 00000000
 ```
 
-#### Need for Speed ProStreet (US) Untested
+#### Need for Speed ProStreet  
 ```
+(US)
 [YNPE] NFS PRO ST
 52049270 EE070F90
 E2000378 0000004A
@@ -214,8 +206,9 @@ D2000000 00000000
 ## P
 
 
-#### Phantasy Star Zero (US)
+#### Phantasy Star Zero  
 ```
+(US)
 [C24E] PSZERO
 5206873C EE070F90
 E2000500 00000048
@@ -231,10 +224,8 @@ D2E0C7C1 015E0012
 0206873C E92D401E
 02068740 FAFE5F6E
 D2000000 00000000
-```
 
-#### Phantasy Star Zero (JP)
-```
+(JP)
 [C24J] PSZERO
 52068618 EE070F90
 E2000160 00000048
@@ -260,8 +251,9 @@ https://github.com/mm201/pkmn-classic-framework/issues/11
 ## R
 
 
-#### Ragnarok DS (US)
+#### Ragnarok DS  
 ```
+(US)
 [YRBE] RAGNAROKDS
 52008EA4 EE070F90
 E20006BC 0000004A
@@ -283,8 +275,9 @@ D2000000 00000000
 ## S
 
 
-#### Star Fox Command (US)
+#### Star Fox Command  
 ```
+(US)
 [ASFE] STARFOX CMD
 52030480 EE070F90
 E2000200 00000046
@@ -305,8 +298,9 @@ D2000000 00000000
 ## T
 
 
-#### Tetris DS (US)
+#### Tetris DS  
 ```
+(US)
 [ATRE] TETRIS DS
 5200805C EE070F90
 E2000344 00000046
