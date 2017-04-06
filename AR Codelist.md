@@ -309,7 +309,7 @@ D2EAE771 000A002C
 D2000000 00000000
 ```
 
-#### Pokemon Black2  
+#### Pokemon Black 2  
 ```
 (US)  
 5207C7EC EE070F90
@@ -522,7 +522,7 @@ D2F2184D 015E0012
 D2000000 00000000
 ```
 
-#### Pokemon SoulSilver  
+#### Pokemon Soul Silver  
 ```
 (US)  
 520D3F5C EE070F90
@@ -607,7 +607,7 @@ D2EAE791 000A002C
 D2000000 00000000
 ```
 
-#### Pokemon White2  
+#### Pokemon White 2  
 ```
 (US)  
 5207C818 EE070F90
