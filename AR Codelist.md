@@ -1,6 +1,6 @@
 ## HTTPS bypass Action Replay DS(i) Codes  
 
-The following is a list of pre-generated Action Replay DS(i) codes for connecting to a new server.  
+The following is a list of pre-generated [Action Replay DS(i)](https://github.com/polaris-/dwc_network_server_emulator/wiki#action-replay-dsi) codes for connecting to a new server.  
 
 
 | [0](#0) | [A](#a) | [B](#b)
@@ -8,10 +8,10 @@ The following is a list of pre-generated Action Replay DS(i) codes for connectin
  | [F](#f) | [G](#g) | [H](#h)
  | [I](#i) | [J](#j) | [K](#k)
  | [L](#l) | [M](#m) | [N](#n)
- | [O](#o) | [P](#p) | [Q](#q)
- | [R](#r) | [S](#s) | [T](#t)
- | [U](#u) | [V](#v) | [W](#w)
- | [X](#x) | [Y](#y) | [Z](#z) |  
+ | [O](#o) | [P](#p) | [pkmn](#pokemon)
+ | [Q](#q) | [R](#r) | [S](#s)
+ | [T](#t) | [U](#u) | [V](#v)
+ | [W](#w)  | [X](#x) | [Y](#y) | [Z](#z) |  
 
 
 
@@ -1200,4 +1200,3 @@ D2000000 00000000
 
 
 ## Z
-
