@@ -204,6 +204,8 @@ D2000000 00000000
 
 
 ## L  
+
+#### LostMagic  
 ```
 (EU)
 [AM9P] LOSTMAGIC
